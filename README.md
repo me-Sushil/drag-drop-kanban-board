@@ -1,10 +1,10 @@
-Drag & Drop Kanban Board
+# Drag & Drop Kanban Board
 A simple and interactive Kanban board built with React and react-beautiful-dnd. This project supports drag-and-drop functionality, task management, and state persistence using localStorage. It is ideal for managing tasks across different stages (e.g., To Do, In Progress, Done).
 
-Features
+# Features
 Drag-and-Drop Task Management
 
-Rearrange tasks within the same column.
+# Rearrange tasks within the same column.
 Move tasks between columns seamlessly.
 Built using the react-beautiful-dnd library for smooth drag-and-drop interactions.
 Task Management
@@ -21,8 +21,7 @@ Supports dynamic addition of columns and tasks.
 Installation
 Clone the repository:
 
-bash
-Copy code
+
 git clone https://github.com/your-username/drag-drop-kanban-board.git
 cd drag-drop-kanban-board
 Install dependencies:
