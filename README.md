@@ -22,15 +22,15 @@ Installation
 Clone the repository:
 
 
-git clone https://github.com/your-username/drag-drop-kanban-board.git
-cd drag-drop-kanban-board
-Install dependencies:
-npm install
+# git clone https://github.com/your-username/drag-drop-kanban-board.git
+# cd drag-drop-kanban-board
+# Install dependencies:
+# npm install
 
-Start the application:
-npm start
+# Start the application:
+# npm start
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# Runs the app in the development mode.\
+# Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
